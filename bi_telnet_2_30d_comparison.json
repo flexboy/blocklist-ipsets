@@ -1,0 +1,92 @@
+[
+	{
+		"name": "bds_atif",
+		"category": "reputation",
+		"ips": 4266,
+		"common": 2
+	},
+	{
+		"name": "bi_any_1_7d",
+		"category": "attacks",
+		"ips": 3915,
+		"common": 1
+	},
+	{
+		"name": "bi_any_2_30d",
+		"category": "attacks",
+		"ips": 2512,
+		"common": 2
+	},
+	{
+		"name": "bi_any_2_7d",
+		"category": "attacks",
+		"ips": 1229,
+		"common": 1
+	},
+	{
+		"name": "bi_mail_1_7d",
+		"category": "attacks",
+		"ips": 3550,
+		"common": 1
+	},
+	{
+		"name": "bi_mail_2_30d",
+		"category": "attacks",
+		"ips": 1070,
+		"common": 1
+	},
+	{
+		"name": "bi_postfix_1_7d",
+		"category": "attacks",
+		"ips": 3365,
+		"common": 1
+	},
+	{
+		"name": "bi_postfix_2_30d",
+		"category": "attacks",
+		"ips": 916,
+		"common": 1
+	},
+	{
+		"name": "bi_ssh_2_30d",
+		"category": "attacks",
+		"ips": 1697,
+		"common": 2
+	},
+	{
+		"name": "dshield_30d",
+		"category": "attacks",
+		"ips": 29184,
+		"common": 2
+	},
+	{
+		"name": "firehol_level3",
+		"category": "attacks",
+		"ips": 54839,
+		"common": 2
+	},
+	{
+		"name": "iblocklist_level3",
+		"category": "reputation",
+		"ips": 138949575,
+		"common": 2
+	},
+	{
+		"name": "shunlist",
+		"category": "attacks",
+		"ips": 500,
+		"common": 1
+	},
+	{
+		"name": "sorbs_web",
+		"category": "spam",
+		"ips": 6267285,
+		"common": 2
+	},
+	{
+		"name": "threatcrowd",
+		"category": "malware",
+		"ips": 6383,
+		"common": 1
+	}
+]

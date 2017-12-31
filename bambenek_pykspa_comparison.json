@@ -1,0 +1,80 @@
+[
+	{
+		"name": "bambenek_c2",
+		"category": "malware",
+		"ips": 458,
+		"common": 7
+	},
+	{
+		"name": "bambenek_ramnit",
+		"category": "malware",
+		"ips": 98,
+		"common": 1
+	},
+	{
+		"name": "bambenek_simda",
+		"category": "malware",
+		"ips": 138,
+		"common": 1
+	},
+	{
+		"name": "blueliv_crimeserver_online",
+		"category": "attacks",
+		"ips": 68471,
+		"common": 1
+	},
+	{
+		"name": "firehol_level1",
+		"category": "attacks",
+		"ips": 648983074,
+		"common": 7
+	},
+	{
+		"name": "firehol_webserver",
+		"category": "attacks",
+		"ips": 34668713,
+		"common": 3
+	},
+	{
+		"name": "hphosts_emd",
+		"category": "malware",
+		"ips": 29108,
+		"common": 4
+	},
+	{
+		"name": "hphosts_fsa",
+		"category": "reputation",
+		"ips": 27270,
+		"common": 1
+	},
+	{
+		"name": "hphosts_psh",
+		"category": "reputation",
+		"ips": 36523,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_edu",
+		"category": "organizations",
+		"ips": 227973095,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_level2",
+		"category": "reputation",
+		"ips": 346546891,
+		"common": 1
+	},
+	{
+		"name": "pushing_inertia_blocklist",
+		"category": "reputation",
+		"ips": 34512264,
+		"common": 3
+	},
+	{
+		"name": "ransomware_feed",
+		"category": "malware",
+		"ips": 5186,
+		"common": 1
+	}
+]

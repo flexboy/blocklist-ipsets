@@ -1,0 +1,32 @@
+{
+	"ipset": "normshield_high_dnsscan",
+	"started": 1512592340000,
+	"updated": 1514697093000,
+	"incomplete": 0,
+	"past": {
+		"hours": [ 
+			24,
+			48,
+			72,
+			96,
+			120 ],
+		"ips": [ 
+			212,
+			14,
+			4,
+			2,
+			1 ],
+		"total": 233
+	},
+	"current": {
+		"hours": [ 
+			0,
+			72,
+			552 ],
+		"ips": [ 
+			10,
+			1,
+			1 ],
+		"total": 12
+	}
+}

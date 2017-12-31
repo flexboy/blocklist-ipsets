@@ -1,0 +1,34 @@
+{
+	"ipset": "coinbl_hosts_optional",
+	"started": 1512769695000,
+	"updated": 1513554288000,
+	"incomplete": 1,
+	"past": {
+		"hours": [ 
+			24,
+			48,
+			73 ],
+		"ips": [ 
+			117,
+			138,
+			1 ],
+		"total": 256
+	},
+	"current": {
+		"hours": [ 
+			0,
+			24,
+			73,
+			121,
+			145,
+			218 ],
+		"ips": [ 
+			79,
+			2,
+			6,
+			3,
+			4,
+			72 ],
+		"total": 166
+	}
+}

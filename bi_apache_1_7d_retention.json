@@ -1,0 +1,28 @@
+{
+	"ipset": "bi_apache_1_7d",
+	"started": 1512342093000,
+	"updated": 1514359750000,
+	"incomplete": 0,
+	"past": {
+		"hours": [ 
+			166,
+			168,
+			169,
+			190,
+			279 ],
+		"ips": [ 
+			1,
+			2,
+			81,
+			1,
+			1 ],
+		"total": 86
+	},
+	"current": {
+		"hours": [ 
+			276 ],
+		"ips": [ 
+			1 ],
+		"total": 1
+	}
+}

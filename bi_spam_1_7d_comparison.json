@@ -1,0 +1,158 @@
+[
+	{
+		"name": "bi_any_0_1d",
+		"category": "attacks",
+		"ips": 10509,
+		"common": 2
+	},
+	{
+		"name": "bi_any_1_7d",
+		"category": "attacks",
+		"ips": 3915,
+		"common": 1
+	},
+	{
+		"name": "bi_any_2_1d",
+		"category": "attacks",
+		"ips": 144,
+		"common": 1
+	},
+	{
+		"name": "bi_any_2_30d",
+		"category": "attacks",
+		"ips": 2512,
+		"common": 2
+	},
+	{
+		"name": "bi_any_2_7d",
+		"category": "attacks",
+		"ips": 1229,
+		"common": 1
+	},
+	{
+		"name": "bi_mail_0_1d",
+		"category": "attacks",
+		"ips": 2203,
+		"common": 2
+	},
+	{
+		"name": "bi_mail_1_7d",
+		"category": "attacks",
+		"ips": 3550,
+		"common": 2
+	},
+	{
+		"name": "bi_mail_2_30d",
+		"category": "attacks",
+		"ips": 1070,
+		"common": 2
+	},
+	{
+		"name": "bi_postfix_0_1d",
+		"category": "attacks",
+		"ips": 877,
+		"common": 1
+	},
+	{
+		"name": "bi_postfix_1_7d",
+		"category": "attacks",
+		"ips": 3365,
+		"common": 1
+	},
+	{
+		"name": "bi_postfix_2_30d",
+		"category": "attacks",
+		"ips": 916,
+		"common": 2
+	},
+	{
+		"name": "bi_spam_0_1d",
+		"category": "attacks",
+		"ips": 145,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 35024,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de_mail",
+		"category": "attacks",
+		"ips": 23863,
+		"common": 1
+	},
+	{
+		"name": "darklist_de",
+		"category": "attacks",
+		"ips": 7352,
+		"common": 1
+	},
+	{
+		"name": "firehol_abusers_30d",
+		"category": "abuse",
+		"ips": 264965,
+		"common": 1
+	},
+	{
+		"name": "firehol_level2",
+		"category": "attacks",
+		"ips": 44003,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_pedophiles",
+		"category": "reputation",
+		"ips": 845657,
+		"common": 1
+	},
+	{
+		"name": "lashback_ubl",
+		"category": "spam",
+		"ips": 872483,
+		"common": 1
+	},
+	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 20687,
+		"common": 2
+	},
+	{
+		"name": "php_commenters_30d",
+		"category": "spam",
+		"ips": 1133,
+		"common": 1
+	},
+	{
+		"name": "php_commenters_7d",
+		"category": "spam",
+		"ips": 336,
+		"common": 1
+	},
+	{
+		"name": "php_dictionary_30d",
+		"category": "spam",
+		"ips": 921,
+		"common": 1
+	},
+	{
+		"name": "php_dictionary_7d",
+		"category": "spam",
+		"ips": 289,
+		"common": 1
+	},
+	{
+		"name": "sorbs_recent_spam",
+		"category": "spam",
+		"ips": 545338,
+		"common": 2
+	},
+	{
+		"name": "sorbs_web",
+		"category": "spam",
+		"ips": 6267285,
+		"common": 2
+	}
+]

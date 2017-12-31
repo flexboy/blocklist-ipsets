@@ -1,0 +1,36 @@
+{
+	"ipset": "normshield_all_wormscan",
+	"started": 1512592341000,
+	"updated": 1514697094000,
+	"incomplete": 0,
+	"past": {
+		"hours": [ 
+			24,
+			48,
+			72,
+			96,
+			312,
+			480 ],
+		"ips": [ 
+			1994,
+			69,
+			7,
+			2,
+			1,
+			1 ],
+		"total": 2074
+	},
+	"current": {
+		"hours": [ 
+			0,
+			24,
+			48,
+			72 ],
+		"ips": [ 
+			76,
+			7,
+			2,
+			2 ],
+		"total": 87
+	}
+}

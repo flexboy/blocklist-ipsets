@@ -1,0 +1,18 @@
+{
+	"ipset": "bi_apache-noscript_2_30d",
+	"started": 1512342132000,
+	"updated": 1513998984000,
+	"incomplete": 0,
+	"past": {
+		"hours": [  ],
+		"ips": [  ],
+		"total": 0
+	},
+	"current": {
+		"hours": [ 
+			436 ],
+		"ips": [ 
+			1 ],
+		"total": 1
+	}
+}

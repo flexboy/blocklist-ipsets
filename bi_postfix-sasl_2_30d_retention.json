@@ -1,0 +1,20 @@
+{
+	"ipset": "bi_postfix-sasl_2_30d",
+	"started": 1512342219000,
+	"updated": 1513824693000,
+	"incomplete": 1,
+	"past": {
+		"hours": [  ],
+		"ips": [  ],
+		"total": 0
+	},
+	"current": {
+		"hours": [ 
+			0,
+			412 ],
+		"ips": [ 
+			1,
+			93 ],
+		"total": 94
+	}
+}

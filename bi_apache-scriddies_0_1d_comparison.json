@@ -1,0 +1,134 @@
+[
+	{
+		"name": "bi_any_0_1d",
+		"category": "attacks",
+		"ips": 10509,
+		"common": 19
+	},
+	{
+		"name": "bi_any_2_30d",
+		"category": "attacks",
+		"ips": 2512,
+		"common": 1
+	},
+	{
+		"name": "bi_apache_0_1d",
+		"category": "attacks",
+		"ips": 107,
+		"common": 19
+	},
+	{
+		"name": "bi_cms_2_30d",
+		"category": "attacks",
+		"ips": 57,
+		"common": 1
+	},
+	{
+		"name": "bi_http_0_1d",
+		"category": "attacks",
+		"ips": 1300,
+		"common": 19
+	},
+	{
+		"name": "bi_http_2_30d",
+		"category": "attacks",
+		"ips": 93,
+		"common": 1
+	},
+	{
+		"name": "bi_wordpress_2_30d",
+		"category": "attacks",
+		"ips": 56,
+		"common": 1
+	},
+	{
+		"name": "blocklist_net_ua",
+		"category": "abuse",
+		"ips": 18764,
+		"common": 2
+	},
+	{
+		"name": "cleantalk_30d",
+		"category": "abuse",
+		"ips": 110879,
+		"common": 6
+	},
+	{
+		"name": "cleantalk_7d",
+		"category": "abuse",
+		"ips": 59076,
+		"common": 6
+	},
+	{
+		"name": "cleantalk_updated_30d",
+		"category": "abuse",
+		"ips": 146649,
+		"common": 6
+	},
+	{
+		"name": "cleantalk_updated_7d",
+		"category": "abuse",
+		"ips": 78792,
+		"common": 6
+	},
+	{
+		"name": "firehol_abusers_30d",
+		"category": "abuse",
+		"ips": 264965,
+		"common": 6
+	},
+	{
+		"name": "firehol_level2",
+		"category": "attacks",
+		"ips": 44003,
+		"common": 1
+	},
+	{
+		"name": "firehol_level3",
+		"category": "attacks",
+		"ips": 54839,
+		"common": 1
+	},
+	{
+		"name": "firehol_level4",
+		"category": "attacks",
+		"ips": 9340042,
+		"common": 2
+	},
+	{
+		"name": "gofferje_sip",
+		"category": "attacks",
+		"ips": 1096082,
+		"common": 1
+	},
+	{
+		"name": "greensnow",
+		"category": "attacks",
+		"ips": 2253,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_bogons",
+		"category": "unroutable",
+		"ips": 639382179,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_level1",
+		"category": "reputation",
+		"ips": 762671134,
+		"common": 1
+	},
+	{
+		"name": "shunlist",
+		"category": "attacks",
+		"ips": 500,
+		"common": 1
+	},
+	{
+		"name": "turris_greylist",
+		"category": "reputation",
+		"ips": 15062,
+		"common": 1
+	}
+]

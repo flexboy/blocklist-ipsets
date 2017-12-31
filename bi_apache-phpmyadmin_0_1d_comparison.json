@@ -1,0 +1,98 @@
+[
+	{
+		"name": "bi_any_0_1d",
+		"category": "attacks",
+		"ips": 10509,
+		"common": 1
+	},
+	{
+		"name": "bi_apache_0_1d",
+		"category": "attacks",
+		"ips": 107,
+		"common": 1
+	},
+	{
+		"name": "bi_http_0_1d",
+		"category": "attacks",
+		"ips": 1300,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 35024,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de_apache",
+		"category": "attacks",
+		"ips": 9708,
+		"common": 1
+	},
+	{
+		"name": "dshield_1d",
+		"category": "attacks",
+		"ips": 7680,
+		"common": 1
+	},
+	{
+		"name": "dshield_30d",
+		"category": "attacks",
+		"ips": 29184,
+		"common": 1
+	},
+	{
+		"name": "dshield_7d",
+		"category": "attacks",
+		"ips": 14592,
+		"common": 1
+	},
+	{
+		"name": "et_block",
+		"category": "attacks",
+		"ips": 24367898,
+		"common": 1
+	},
+	{
+		"name": "et_dshield",
+		"category": "attacks",
+		"ips": 5120,
+		"common": 1
+	},
+	{
+		"name": "firehol_level2",
+		"category": "attacks",
+		"ips": 44003,
+		"common": 1
+	},
+	{
+		"name": "firehol_level3",
+		"category": "attacks",
+		"ips": 54839,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_level3",
+		"category": "reputation",
+		"ips": 138949575,
+		"common": 1
+	},
+	{
+		"name": "normshield_all_webscan",
+		"category": "attacks",
+		"ips": 231,
+		"common": 1
+	},
+	{
+		"name": "normshield_high_webscan",
+		"category": "attacks",
+		"ips": 176,
+		"common": 1
+	},
+	{
+		"name": "packetmail_ramnode",
+		"category": "reputation",
+		"ips": 2996,
+		"common": 1
+	}
+]

@@ -1,0 +1,122 @@
+[
+	{
+		"name": "bi_any_1_7d",
+		"category": "attacks",
+		"ips": 3915,
+		"common": 4
+	},
+	{
+		"name": "bi_any_2_30d",
+		"category": "attacks",
+		"ips": 2512,
+		"common": 1
+	},
+	{
+		"name": "bi_bruteforce_1_7d",
+		"category": "attacks",
+		"ips": 4,
+		"common": 4
+	},
+	{
+		"name": "bi_ssh_2_30d",
+		"category": "attacks",
+		"ips": 1697,
+		"common": 1
+	},
+	{
+		"name": "bi_sshd_2_30d",
+		"category": "attacks",
+		"ips": 147,
+		"common": 1
+	},
+	{
+		"name": "darklist_de",
+		"category": "attacks",
+		"ips": 7352,
+		"common": 1
+	},
+	{
+		"name": "dronebl_autorooting_worms",
+		"category": "attacks",
+		"ips": 1043,
+		"common": 1
+	},
+	{
+		"name": "dshield_30d",
+		"category": "attacks",
+		"ips": 29184,
+		"common": 1
+	},
+	{
+		"name": "dshield_7d",
+		"category": "attacks",
+		"ips": 14592,
+		"common": 1
+	},
+	{
+		"name": "et_block",
+		"category": "attacks",
+		"ips": 24367898,
+		"common": 1
+	},
+	{
+		"name": "et_spamhaus",
+		"category": "attacks",
+		"ips": 24361472,
+		"common": 1
+	},
+	{
+		"name": "firehol_level1",
+		"category": "attacks",
+		"ips": 648983074,
+		"common": 1
+	},
+	{
+		"name": "firehol_level3",
+		"category": "attacks",
+		"ips": 54839,
+		"common": 1
+	},
+	{
+		"name": "firehol_level4",
+		"category": "attacks",
+		"ips": 9340042,
+		"common": 2
+	},
+	{
+		"name": "haley_ssh",
+		"category": "attacks",
+		"ips": 29161,
+		"common": 2
+	},
+	{
+		"name": "iblocklist_spamhaus_drop",
+		"category": "attacks",
+		"ips": 24410624,
+		"common": 1
+	},
+	{
+		"name": "nullsecure",
+		"category": "reputation",
+		"ips": 29439,
+		"common": 1
+	},
+	{
+		"name": "spamhaus_drop",
+		"category": "reputation",
+		"ips": 24410624,
+		"common": 1
+	},
+	{
+		"name": "threatcrowd",
+		"category": "malware",
+		"ips": 6383,
+		"common": 1
+	},
+	{
+		"name": "voipbl",
+		"category": "attacks",
+		"ips": 43683,
+		"common": 1
+	}
+]

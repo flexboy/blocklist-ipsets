@@ -1,0 +1,22 @@
+{
+	"ipset": "bi_apache-404_0_1d",
+	"started": 1512342118000,
+	"updated": 1514666907000,
+	"incomplete": 0,
+	"past": {
+		"hours": [ 
+			23,
+			24 ],
+		"ips": [ 
+			6,
+			26 ],
+		"total": 32
+	},
+	"current": {
+		"hours": [ 
+			0 ],
+		"ips": [ 
+			1 ],
+		"total": 1
+	}
+}

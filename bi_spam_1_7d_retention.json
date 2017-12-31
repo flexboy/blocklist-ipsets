@@ -1,0 +1,26 @@
+{
+	"ipset": "bi_spam_1_7d",
+	"started": 1512342245000,
+	"updated": 1514712103000,
+	"incomplete": 0,
+	"past": {
+		"hours": [ 
+			168,
+			172,
+			245 ],
+		"ips": [ 
+			3,
+			3,
+			1 ],
+		"total": 7
+	},
+	"current": {
+		"hours": [ 
+			0,
+			67 ],
+		"ips": [ 
+			1,
+			1 ],
+		"total": 2
+	}
+}

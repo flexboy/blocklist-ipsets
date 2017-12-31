@@ -1,0 +1,116 @@
+[
+	{
+		"name": "bi_any_0_1d",
+		"category": "attacks",
+		"ips": 10509,
+		"common": 34
+	},
+	{
+		"name": "bi_mail_0_1d",
+		"category": "attacks",
+		"ips": 2203,
+		"common": 34
+	},
+	{
+		"name": "bi_postfix_0_1d",
+		"category": "attacks",
+		"ips": 877,
+		"common": 4
+	},
+	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 35024,
+		"common": 6
+	},
+	{
+		"name": "blocklist_de_mail",
+		"category": "attacks",
+		"ips": 23863,
+		"common": 6
+	},
+	{
+		"name": "blocklist_net_ua",
+		"category": "abuse",
+		"ips": 18764,
+		"common": 1
+	},
+	{
+		"name": "firehol_level2",
+		"category": "attacks",
+		"ips": 44003,
+		"common": 6
+	},
+	{
+		"name": "firehol_level4",
+		"category": "attacks",
+		"ips": 9340042,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_bogons",
+		"category": "unroutable",
+		"ips": 639382179,
+		"common": 3
+	},
+	{
+		"name": "iblocklist_level1",
+		"category": "reputation",
+		"ips": 762671134,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_level2",
+		"category": "reputation",
+		"ips": 346546891,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_rangetest",
+		"category": "reputation",
+		"ips": 4235342,
+		"common": 1
+	},
+	{
+		"name": "lashback_ubl",
+		"category": "spam",
+		"ips": 872483,
+		"common": 6
+	},
+	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 20687,
+		"common": 16
+	},
+	{
+		"name": "sorbs_dul",
+		"category": "spam",
+		"ips": 375226662,
+		"common": 6
+	},
+	{
+		"name": "sorbs_noserver",
+		"category": "spam",
+		"ips": 22951270,
+		"common": 2
+	},
+	{
+		"name": "sorbs_recent_spam",
+		"category": "spam",
+		"ips": 545338,
+		"common": 1
+	},
+	{
+		"name": "sorbs_web",
+		"category": "spam",
+		"ips": 6267285,
+		"common": 3
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 250,
+		"common": 1
+	}
+]

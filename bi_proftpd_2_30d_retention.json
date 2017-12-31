@@ -1,0 +1,26 @@
+{
+	"ipset": "bi_proftpd_2_30d",
+	"started": 1512342222000,
+	"updated": 1514260367000,
+	"incomplete": 1,
+	"past": {
+		"hours": [  ],
+		"ips": [  ],
+		"total": 0
+	},
+	"current": {
+		"hours": [ 
+			0,
+			97,
+			121,
+			509,
+			533 ],
+		"ips": [ 
+			1,
+			1,
+			2,
+			1,
+			5 ],
+		"total": 10
+	}
+}

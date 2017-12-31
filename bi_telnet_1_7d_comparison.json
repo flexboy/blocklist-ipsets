@@ -1,0 +1,128 @@
+[
+	{
+		"name": "alienvault_reputation",
+		"category": "reputation",
+		"ips": 68326,
+		"common": 8
+	},
+	{
+		"name": "bbcan177_ms3",
+		"category": "malware",
+		"ips": 30151694,
+		"common": 2
+	},
+	{
+		"name": "bi_any_0_1d",
+		"category": "attacks",
+		"ips": 10509,
+		"common": 1
+	},
+	{
+		"name": "bi_any_1_7d",
+		"category": "attacks",
+		"ips": 3915,
+		"common": 10
+	},
+	{
+		"name": "bi_ssh_0_1d",
+		"category": "attacks",
+		"ips": 6190,
+		"common": 1
+	},
+	{
+		"name": "bi_ssh_1_7d",
+		"category": "attacks",
+		"ips": 289,
+		"common": 10
+	},
+	{
+		"name": "bi_telnet_0_1d",
+		"category": "attacks",
+		"ips": 563,
+		"common": 1
+	},
+	{
+		"name": "ciarmy",
+		"category": "reputation",
+		"ips": 15000,
+		"common": 4
+	},
+	{
+		"name": "dronebl_compromised",
+		"category": "attacks",
+		"ips": 5898,
+		"common": 1
+	},
+	{
+		"name": "dronebl_irc_drones",
+		"category": "abuse",
+		"ips": 93643,
+		"common": 1
+	},
+	{
+		"name": "dshield_top_1000",
+		"category": "attacks",
+		"ips": 871,
+		"common": 1
+	},
+	{
+		"name": "firehol_level2",
+		"category": "attacks",
+		"ips": 44003,
+		"common": 1
+	},
+	{
+		"name": "firehol_level3",
+		"category": "attacks",
+		"ips": 54839,
+		"common": 4
+	},
+	{
+		"name": "firehol_level4",
+		"category": "attacks",
+		"ips": 9340042,
+		"common": 1
+	},
+	{
+		"name": "greensnow",
+		"category": "attacks",
+		"ips": 2253,
+		"common": 1
+	},
+	{
+		"name": "haley_ssh",
+		"category": "attacks",
+		"ips": 29161,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_ciarmy_malicious",
+		"category": "reputation",
+		"ips": 14912,
+		"common": 4
+	},
+	{
+		"name": "lashback_ubl",
+		"category": "spam",
+		"ips": 872483,
+		"common": 2
+	},
+	{
+		"name": "sorbs_recent_spam",
+		"category": "spam",
+		"ips": 545338,
+		"common": 1
+	},
+	{
+		"name": "sorbs_web",
+		"category": "spam",
+		"ips": 6267285,
+		"common": 1
+	},
+	{
+		"name": "turris_greylist",
+		"category": "reputation",
+		"ips": 15062,
+		"common": 1
+	}
+]

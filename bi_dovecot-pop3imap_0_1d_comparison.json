@@ -1,0 +1,134 @@
+[
+	{
+		"name": "alienvault_reputation",
+		"category": "reputation",
+		"ips": 68326,
+		"common": 1
+	},
+	{
+		"name": "bbcan177_ms3",
+		"category": "malware",
+		"ips": 30151694,
+		"common": 1
+	},
+	{
+		"name": "bi_any_0_1d",
+		"category": "attacks",
+		"ips": 10509,
+		"common": 81
+	},
+	{
+		"name": "bi_mail_0_1d",
+		"category": "attacks",
+		"ips": 2203,
+		"common": 86
+	},
+	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 35024,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de_imap",
+		"category": "attacks",
+		"ips": 2844,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de_mail",
+		"category": "attacks",
+		"ips": 23863,
+		"common": 1
+	},
+	{
+		"name": "blocklist_net_ua",
+		"category": "abuse",
+		"ips": 18764,
+		"common": 1
+	},
+	{
+		"name": "dronebl_compromised",
+		"category": "attacks",
+		"ips": 5898,
+		"common": 2
+	},
+	{
+		"name": "et_block",
+		"category": "attacks",
+		"ips": 24367898,
+		"common": 4
+	},
+	{
+		"name": "et_spamhaus",
+		"category": "attacks",
+		"ips": 24361472,
+		"common": 4
+	},
+	{
+		"name": "firehol_level1",
+		"category": "attacks",
+		"ips": 648983074,
+		"common": 4
+	},
+	{
+		"name": "firehol_level2",
+		"category": "attacks",
+		"ips": 44003,
+		"common": 1
+	},
+	{
+		"name": "firehol_level4",
+		"category": "attacks",
+		"ips": 9340042,
+		"common": 2
+	},
+	{
+		"name": "gofferje_sip",
+		"category": "attacks",
+		"ips": 1096082,
+		"common": 1
+	},
+	{
+		"name": "haley_ssh",
+		"category": "attacks",
+		"ips": 29161,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_level2",
+		"category": "reputation",
+		"ips": 346546891,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_spamhaus_drop",
+		"category": "attacks",
+		"ips": 24410624,
+		"common": 4
+	},
+	{
+		"name": "sorbs_anonymizers",
+		"category": "spam",
+		"ips": 609175,
+		"common": 1
+	},
+	{
+		"name": "sorbs_dul",
+		"category": "spam",
+		"ips": 375226662,
+		"common": 2
+	},
+	{
+		"name": "spamhaus_drop",
+		"category": "reputation",
+		"ips": 24410624,
+		"common": 4
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 250,
+		"common": 2
+	}
+]

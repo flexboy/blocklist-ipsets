@@ -1,0 +1,128 @@
+[
+	{
+		"name": "bi_any_0_1d",
+		"category": "attacks",
+		"ips": 10509,
+		"common": 4
+	},
+	{
+		"name": "bi_cms_0_1d",
+		"category": "attacks",
+		"ips": 1148,
+		"common": 4
+	},
+	{
+		"name": "bi_http_0_1d",
+		"category": "attacks",
+		"ips": 1300,
+		"common": 4
+	},
+	{
+		"name": "cleantalk_1d",
+		"category": "abuse",
+		"ips": 25714,
+		"common": 3
+	},
+	{
+		"name": "cleantalk_30d",
+		"category": "abuse",
+		"ips": 110879,
+		"common": 3
+	},
+	{
+		"name": "cleantalk_7d",
+		"category": "abuse",
+		"ips": 59076,
+		"common": 3
+	},
+	{
+		"name": "cleantalk_updated_1d",
+		"category": "abuse",
+		"ips": 32413,
+		"common": 3
+	},
+	{
+		"name": "cleantalk_updated_30d",
+		"category": "abuse",
+		"ips": 146649,
+		"common": 3
+	},
+	{
+		"name": "cleantalk_updated_7d",
+		"category": "abuse",
+		"ips": 78792,
+		"common": 3
+	},
+	{
+		"name": "dronebl_anonymizers",
+		"category": "anonymizers",
+		"ips": 782587,
+		"common": 2
+	},
+	{
+		"name": "firehol_abusers_1d",
+		"category": "abuse",
+		"ips": 33712,
+		"common": 3
+	},
+	{
+		"name": "firehol_abusers_30d",
+		"category": "abuse",
+		"ips": 264965,
+		"common": 3
+	},
+	{
+		"name": "firehol_webserver",
+		"category": "attacks",
+		"ips": 34668713,
+		"common": 1
+	},
+	{
+		"name": "pushing_inertia_blocklist",
+		"category": "reputation",
+		"ips": 34512264,
+		"common": 1
+	},
+	{
+		"name": "stopforumspam",
+		"category": "abuse",
+		"ips": 158565,
+		"common": 1
+	},
+	{
+		"name": "stopforumspam_180d",
+		"category": "abuse",
+		"ips": 292062,
+		"common": 1
+	},
+	{
+		"name": "stopforumspam_30d",
+		"category": "abuse",
+		"ips": 60905,
+		"common": 1
+	},
+	{
+		"name": "stopforumspam_365d",
+		"category": "abuse",
+		"ips": 467504,
+		"common": 1
+	},
+	{
+		"name": "stopforumspam_7d",
+		"category": "abuse",
+		"ips": 17135,
+		"common": 1
+	},
+	{
+		"name": "stopforumspam_90d",
+		"category": "abuse",
+		"ips": 159488,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 297,
+		"common": 1
+	}
+]

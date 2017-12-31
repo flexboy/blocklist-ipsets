@@ -1,0 +1,34 @@
+{
+	"ipset": "bi_apache-phpmyadmin_0_1d",
+	"started": 1512342137000,
+	"updated": 1514716598000,
+	"incomplete": 0,
+	"past": {
+		"hours": [ 
+			23,
+			24,
+			25,
+			26,
+			31,
+			37,
+			40,
+			51 ],
+		"ips": [ 
+			4,
+			36,
+			126,
+			1,
+			1,
+			1,
+			1,
+			1 ],
+		"total": 171
+	},
+	"current": {
+		"hours": [ 
+			0 ],
+		"ips": [ 
+			1 ],
+		"total": 1
+	}
+}

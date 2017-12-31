@@ -1,0 +1,122 @@
+[
+	{
+		"name": "bds_atif",
+		"category": "reputation",
+		"ips": 4266,
+		"common": 1
+	},
+	{
+		"name": "bi_any_1_7d",
+		"category": "attacks",
+		"ips": 3915,
+		"common": 1
+	},
+	{
+		"name": "bi_any_2_30d",
+		"category": "attacks",
+		"ips": 2512,
+		"common": 1
+	},
+	{
+		"name": "bi_apache_1_7d",
+		"category": "attacks",
+		"ips": 1,
+		"common": 1
+	},
+	{
+		"name": "bi_apache_2_30d",
+		"category": "attacks",
+		"ips": 26,
+		"common": 1
+	},
+	{
+		"name": "bi_http_1_7d",
+		"category": "attacks",
+		"ips": 61,
+		"common": 1
+	},
+	{
+		"name": "bi_http_2_30d",
+		"category": "attacks",
+		"ips": 93,
+		"common": 1
+	},
+	{
+		"name": "cleantalk_30d",
+		"category": "abuse",
+		"ips": 110879,
+		"common": 1
+	},
+	{
+		"name": "cleantalk_7d",
+		"category": "abuse",
+		"ips": 59076,
+		"common": 1
+	},
+	{
+		"name": "cleantalk_updated_30d",
+		"category": "abuse",
+		"ips": 146649,
+		"common": 1
+	},
+	{
+		"name": "cleantalk_updated_7d",
+		"category": "abuse",
+		"ips": 78792,
+		"common": 1
+	},
+	{
+		"name": "cruzit_web_attacks",
+		"category": "attacks",
+		"ips": 8248,
+		"common": 1
+	},
+	{
+		"name": "firehol_abusers_30d",
+		"category": "abuse",
+		"ips": 264965,
+		"common": 1
+	},
+	{
+		"name": "firehol_level4",
+		"category": "attacks",
+		"ips": 9340042,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_cruzit_web_attacks",
+		"category": "attacks",
+		"ips": 7583,
+		"common": 1
+	},
+	{
+		"name": "normshield_all_attack",
+		"category": "attacks",
+		"ips": 3891,
+		"common": 1
+	},
+	{
+		"name": "normshield_all_webscan",
+		"category": "attacks",
+		"ips": 231,
+		"common": 1
+	},
+	{
+		"name": "packetmail",
+		"category": "reputation",
+		"ips": 3005,
+		"common": 1
+	},
+	{
+		"name": "packetmail_ramnode",
+		"category": "reputation",
+		"ips": 2996,
+		"common": 1
+	},
+	{
+		"name": "threatcrowd",
+		"category": "malware",
+		"ips": 6383,
+		"common": 1
+	}
+]

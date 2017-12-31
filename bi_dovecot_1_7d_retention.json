@@ -1,0 +1,30 @@
+{
+	"ipset": "bi_dovecot_1_7d",
+	"started": 1512342174000,
+	"updated": 1514698997000,
+	"incomplete": 0,
+	"past": {
+		"hours": [ 
+			165,
+			166,
+			172,
+			245 ],
+		"ips": [ 
+			11,
+			1,
+			7,
+			1 ],
+		"total": 20
+	},
+	"current": {
+		"hours": [ 
+			0,
+			18,
+			135 ],
+		"ips": [ 
+			1,
+			1,
+			7 ],
+		"total": 9
+	}
+}

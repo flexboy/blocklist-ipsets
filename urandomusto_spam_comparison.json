@@ -1,0 +1,20 @@
+[
+	{
+		"name": "firehol_webserver",
+		"category": "attacks",
+		"ips": 34668713,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_edu",
+		"category": "organizations",
+		"ips": 227973095,
+		"common": 1
+	},
+	{
+		"name": "pushing_inertia_blocklist",
+		"category": "reputation",
+		"ips": 34512264,
+		"common": 1
+	}
+]

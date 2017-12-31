@@ -1,0 +1,206 @@
+[
+	{
+		"name": "bds_atif",
+		"category": "reputation",
+		"ips": 4266,
+		"common": 1
+	},
+	{
+		"name": "bi_any_0_1d",
+		"category": "attacks",
+		"ips": 10509,
+		"common": 24
+	},
+	{
+		"name": "bi_ftp_0_1d",
+		"category": "attacks",
+		"ips": 251,
+		"common": 24
+	},
+	{
+		"name": "bi_proftpd_0_1d",
+		"category": "attacks",
+		"ips": 53,
+		"common": 2
+	},
+	{
+		"name": "bi_pureftpd_0_1d",
+		"category": "attacks",
+		"ips": 69,
+		"common": 4
+	},
+	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 35024,
+		"common": 10
+	},
+	{
+		"name": "blocklist_de_ftp",
+		"category": "attacks",
+		"ips": 440,
+		"common": 10
+	},
+	{
+		"name": "blocklist_de_strongips",
+		"category": "attacks",
+		"ips": 110,
+		"common": 1
+	},
+	{
+		"name": "blocklist_net_ua",
+		"category": "abuse",
+		"ips": 18764,
+		"common": 23
+	},
+	{
+		"name": "ciarmy",
+		"category": "reputation",
+		"ips": 15000,
+		"common": 1
+	},
+	{
+		"name": "cleantalk",
+		"category": "abuse",
+		"ips": 2436,
+		"common": 9
+	},
+	{
+		"name": "cleantalk_1d",
+		"category": "abuse",
+		"ips": 25714,
+		"common": 15
+	},
+	{
+		"name": "cleantalk_30d",
+		"category": "abuse",
+		"ips": 110879,
+		"common": 23
+	},
+	{
+		"name": "cleantalk_7d",
+		"category": "abuse",
+		"ips": 59076,
+		"common": 23
+	},
+	{
+		"name": "cleantalk_new",
+		"category": "abuse",
+		"ips": 465,
+		"common": 9
+	},
+	{
+		"name": "cleantalk_new_1d",
+		"category": "abuse",
+		"ips": 1063,
+		"common": 13
+	},
+	{
+		"name": "cleantalk_new_30d",
+		"category": "abuse",
+		"ips": 25529,
+		"common": 18
+	},
+	{
+		"name": "cleantalk_new_7d",
+		"category": "abuse",
+		"ips": 5394,
+		"common": 14
+	},
+	{
+		"name": "cleantalk_updated_1d",
+		"category": "abuse",
+		"ips": 32413,
+		"common": 7
+	},
+	{
+		"name": "cleantalk_updated_30d",
+		"category": "abuse",
+		"ips": 146649,
+		"common": 15
+	},
+	{
+		"name": "cleantalk_updated_7d",
+		"category": "abuse",
+		"ips": 78792,
+		"common": 15
+	},
+	{
+		"name": "firehol_abusers_1d",
+		"category": "abuse",
+		"ips": 33712,
+		"common": 15
+	},
+	{
+		"name": "firehol_abusers_30d",
+		"category": "abuse",
+		"ips": 264965,
+		"common": 23
+	},
+	{
+		"name": "firehol_level2",
+		"category": "attacks",
+		"ips": 44003,
+		"common": 13
+	},
+	{
+		"name": "firehol_level3",
+		"category": "attacks",
+		"ips": 54839,
+		"common": 1
+	},
+	{
+		"name": "firehol_level4",
+		"category": "attacks",
+		"ips": 9340042,
+		"common": 23
+	},
+	{
+		"name": "greensnow",
+		"category": "attacks",
+		"ips": 2253,
+		"common": 8
+	},
+	{
+		"name": "normshield_all_attack",
+		"category": "attacks",
+		"ips": 3891,
+		"common": 12
+	},
+	{
+		"name": "normshield_high_attack",
+		"category": "attacks",
+		"ips": 3856,
+		"common": 12
+	},
+	{
+		"name": "packetmail_ramnode",
+		"category": "reputation",
+		"ips": 2996,
+		"common": 1
+	},
+	{
+		"name": "stopforumspam_180d",
+		"category": "abuse",
+		"ips": 292062,
+		"common": 1
+	},
+	{
+		"name": "stopforumspam_365d",
+		"category": "abuse",
+		"ips": 467504,
+		"common": 1
+	},
+	{
+		"name": "taichung",
+		"category": "attacks",
+		"ips": 11477,
+		"common": 2
+	},
+	{
+		"name": "urandomusto_ftp",
+		"category": "attacks",
+		"ips": 269,
+		"common": 12
+	}
+]

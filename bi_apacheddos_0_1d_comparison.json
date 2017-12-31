@@ -1,0 +1,104 @@
+[
+	{
+		"name": "bi_any_0_1d",
+		"category": "attacks",
+		"ips": 10509,
+		"common": 58
+	},
+	{
+		"name": "bi_apache_0_1d",
+		"category": "attacks",
+		"ips": 107,
+		"common": 58
+	},
+	{
+		"name": "bi_http_0_1d",
+		"category": "attacks",
+		"ips": 1300,
+		"common": 59
+	},
+	{
+		"name": "firehol_webserver",
+		"category": "attacks",
+		"ips": 34668713,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_ads",
+		"category": "organizations",
+		"ips": 888285,
+		"common": 4
+	},
+	{
+		"name": "iblocklist_edu",
+		"category": "organizations",
+		"ips": 227973095,
+		"common": 2
+	},
+	{
+		"name": "iblocklist_isp_cablevision",
+		"category": "organizations",
+		"ips": 1787136,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_isp_charter",
+		"category": "organizations",
+		"ips": 6138112,
+		"common": 2
+	},
+	{
+		"name": "iblocklist_isp_comcast",
+		"category": "organizations",
+		"ips": 45121536,
+		"common": 29
+	},
+	{
+		"name": "iblocklist_isp_verizon",
+		"category": "organizations",
+		"ips": 18087936,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_level1",
+		"category": "reputation",
+		"ips": 762671134,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_level2",
+		"category": "reputation",
+		"ips": 346546891,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_level3",
+		"category": "reputation",
+		"ips": 138949575,
+		"common": 1
+	},
+	{
+		"name": "pushing_inertia_blocklist",
+		"category": "reputation",
+		"ips": 34512264,
+		"common": 1
+	},
+	{
+		"name": "sorbs_dul",
+		"category": "spam",
+		"ips": 375226662,
+		"common": 31
+	},
+	{
+		"name": "sorbs_web",
+		"category": "spam",
+		"ips": 6267285,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 297,
+		"common": 4
+	}
+]

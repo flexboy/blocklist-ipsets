@@ -1,0 +1,28 @@
+{
+	"ipset": "bi_rdp_0_1d",
+	"started": 1512342232000,
+	"updated": 1514677861000,
+	"incomplete": 0,
+	"past": {
+		"hours": [ 
+			23,
+			24,
+			40,
+			48 ],
+		"ips": [ 
+			34,
+			50,
+			3,
+			1 ],
+		"total": 88
+	},
+	"current": {
+		"hours": [ 
+			9,
+			24 ],
+		"ips": [ 
+			5,
+			1 ],
+		"total": 6
+	}
+}

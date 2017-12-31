@@ -1,0 +1,134 @@
+[
+	{
+		"name": "bbcan177_ms1",
+		"category": "malware",
+		"ips": 5268667,
+		"common": 1
+	},
+	{
+		"name": "blueliv_crimeserver_online",
+		"category": "attacks",
+		"ips": 68471,
+		"common": 1
+	},
+	{
+		"name": "cleantalk_30d",
+		"category": "abuse",
+		"ips": 110879,
+		"common": 1
+	},
+	{
+		"name": "cleantalk_updated_30d",
+		"category": "abuse",
+		"ips": 146649,
+		"common": 1
+	},
+	{
+		"name": "cruzit_web_attacks",
+		"category": "attacks",
+		"ips": 8248,
+		"common": 1
+	},
+	{
+		"name": "dronebl_anonymizers",
+		"category": "anonymizers",
+		"ips": 782587,
+		"common": 2
+	},
+	{
+		"name": "dronebl_auto_botnets",
+		"category": "reputation",
+		"ips": 312764,
+		"common": 2
+	},
+	{
+		"name": "dronebl_irc_drones",
+		"category": "abuse",
+		"ips": 93643,
+		"common": 1
+	},
+	{
+		"name": "firehol_abusers_30d",
+		"category": "abuse",
+		"ips": 264965,
+		"common": 1
+	},
+	{
+		"name": "firehol_level3",
+		"category": "attacks",
+		"ips": 54839,
+		"common": 2
+	},
+	{
+		"name": "firehol_level4",
+		"category": "attacks",
+		"ips": 9340042,
+		"common": 1
+	},
+	{
+		"name": "firehol_webserver",
+		"category": "attacks",
+		"ips": 34668713,
+		"common": 2
+	},
+	{
+		"name": "hphosts_ats",
+		"category": "organizations",
+		"ips": 15000,
+		"common": 6
+	},
+	{
+		"name": "hphosts_emd",
+		"category": "malware",
+		"ips": 29108,
+		"common": 1
+	},
+	{
+		"name": "hphosts_fsa",
+		"category": "reputation",
+		"ips": 27270,
+		"common": 8
+	},
+	{
+		"name": "hphosts_pha",
+		"category": "reputation",
+		"ips": 1956,
+		"common": 1
+	},
+	{
+		"name": "hphosts_psh",
+		"category": "reputation",
+		"ips": 36523,
+		"common": 8
+	},
+	{
+		"name": "iblocklist_level1",
+		"category": "reputation",
+		"ips": 762671134,
+		"common": 16777216
+	},
+	{
+		"name": "myip",
+		"category": "abuse",
+		"ips": 3789,
+		"common": 2
+	},
+	{
+		"name": "stopforumspam_180d",
+		"category": "abuse",
+		"ips": 292062,
+		"common": 2
+	},
+	{
+		"name": "stopforumspam_365d",
+		"category": "abuse",
+		"ips": 467504,
+		"common": 4
+	},
+	{
+		"name": "threatcrowd",
+		"category": "malware",
+		"ips": 6383,
+		"common": 9
+	}
+]
